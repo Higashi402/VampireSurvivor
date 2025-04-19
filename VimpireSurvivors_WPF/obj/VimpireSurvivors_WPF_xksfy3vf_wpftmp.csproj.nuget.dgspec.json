@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\VimpireSurvivors_WPF\\VimpireSurvivors_WPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\MvcController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\MvcController.csproj",
+        "projectName": "MvcController",
+        "projectPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\MvcController.csproj",
+        "packagesPath": "C:\\Users\\Higashi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Higashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\MvcModel.csproj": {
+                "projectPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\MvcModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\MvcModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\MvcModel.csproj",
+        "projectName": "MvcModel",
+        "projectPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\MvcModel.csproj",
+        "packagesPath": "C:\\Users\\Higashi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Higashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\VimpireSurvivors_WPF\\VimpireSurvivors_WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\VimpireSurvivors_WPF\\VimpireSurvivors_WPF.csproj",
+        "projectName": "VimpireSurvivors_WPF",
+        "projectPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\VimpireSurvivors_WPF\\VimpireSurvivors_WPF.csproj",
+        "packagesPath": "C:\\Users\\Higashi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\VimpireSurvivors_WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Higashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\MvcController.csproj": {
+                "projectPath": "C:\\Users\\Higashi\\Desktop\\Subjects\\course1semester\\КурсоваяКПО\\VimpireSurvivors\\Controller\\MvcController.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

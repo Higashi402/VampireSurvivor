@@ -1,0 +1,142 @@
+[
+  {
+    "Upgrade": "Whip",
+    "Level": 1,
+    "Discription": "Deal 10 damage"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 2,
+    "Discription": "Deal 10(+4) damage"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 3,
+    "Discription": "Deal 14(+4) damage"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 4,
+    "Discription": "Additional whip(lvl.3) with low speed attack"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 5,
+    "Discription": "Deal 18(+8) damage"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 6,
+    "Discription": "Deal 26(+9) damage"
+  },
+  {
+    "Upgrade": "Whip",
+    "Level": 7,
+    "Discription": "Additional whip(lvl.3) with low speed attack"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 1,
+    "Discription": "Deal 15 damage"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 2,
+    "Discription": "Deal 15(+4) damage"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 3,
+    "Discription": "Deal 19(+6) damage"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 4,
+    "Discription": "Additional thunder with 100 damage and low speed attack"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 5,
+    "Discription": "Deal 25(+7) damage"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 6,
+    "Discription": "Deal 32(+13) damage"
+  },
+  {
+    "Upgrade": "Lightning",
+    "Level": 7,
+    "Discription": "Additional thunder with 100 damage and low speed attack"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 1,
+    "Discription": "Increases maximum health +10 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 2,
+    "Discription": "Increases maximum health +20 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 3,
+    "Discription": "Increases maximum health +20 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 4,
+    "Discription": "Increases maximum health +20 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 5,
+    "Discription": "Increases maximum health +30 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 6,
+    "Discription": "Increases maximum health +50 and heal your hero"
+  },
+  {
+    "Upgrade": "OakRoot",
+    "Level": 7,
+    "Discription": "Increases maximum health +50 and heal your hero"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 1,
+    "Discription": "Additional damage +1 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 2,
+    "Discription": "Additional damage +2 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 3,
+    "Discription": "Additional damage +2 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 4,
+    "Discription": "Additional damage +3 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 5,
+    "Discription": "Additional damage +3 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 6,
+    "Discription": "Additional damage +4 for all weapons"
+  },
+  {
+    "Upgrade": "Whetstone",
+    "Level": 7,
+    "Discription": "Additional damage +5 for all weapons"
+  }
+]
